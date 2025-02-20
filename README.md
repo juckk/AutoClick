@@ -19,8 +19,10 @@ Make sure you have **Python 3.x** installed, then install the required packages:
 
 ```sh
 pip install -r requirements.txt
-Or install them manually:
 ```
+
+Or install them manually:
+
 ```sh
 pip install -r requirements.txt
 pip install selenium webdriver-manager
